@@ -36,3 +36,8 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11047736
 #### 분석 결과에 따른 피드백
 
 위 과정에서 최종적으로 얻은 학습자의 상태에 따른 피드백을 zoom 사용중에 시각적으로 보여주기 위해 오버레이 방식을 사용하여 zoom 회의 창에 맞는 위치에 이모티콘으로 표시하였다. zoom회의의 실행 여부와 zoom회의 창의 위치 및 크기 정보를 가져오기 위해 pywin32를 사용하고, 프로그램의 ui와 실시간으로 zoom회의 창을 추적하고 이미지가 바뀌는 오버레이를 구현하기 위해 pyqt5를 사용하였다.
+
+
+<br/><br/>
+
+![page2image48418880](https://user-images.githubusercontent.com/69569278/163321522-beacae54-71ca-491e-8042-b453f90b4905.png)
