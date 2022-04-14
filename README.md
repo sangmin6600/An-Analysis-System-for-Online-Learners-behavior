@@ -40,4 +40,5 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11047736
 
 <br/><br/>
 
-![page2image48418880](https://user-images.githubusercontent.com/69569278/163321522-beacae54-71ca-491e-8042-b453f90b4905.png)
+<!-- ![page2image48418880](https://user-images.githubusercontent.com/69569278/163321522-beacae54-71ca-491e-8042-b453f90b4905.png) -->
+<img src="https://user-images.githubusercontent.com/69569278/163321522-beacae54-71ca-491e-8042-b453f90b4905.png" width = "50%" height = "50%">
